@@ -1,6 +1,6 @@
  <img align="center" alt="Coding" width="840" src="https://piskel-imgstore-b.appspot.com/img/d9359bf0-811a-11ed-9227-8fa77ee6295d.gif">
  <img align="center" alt="Coding" width="840" src="https://piskel-imgstore-b.appspot.com/img/b250f0f0-8117-11ed-8311-8fa77ee6295d.gif">
- <div align="center" style="font-weight: 400;">:Barrel Or Serpent:?</div>
+ <div align="center" style="font-weight: bold; ">:Barrel Or Serpent:?</div>
  <div align="center">:Age: 15-51?</div>
  <div align="center">:Height: 6.0-61.5?</div>
  <div align="center">:gender: Amorphous?</div>
